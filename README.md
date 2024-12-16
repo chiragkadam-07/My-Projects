@@ -1,6 +1,6 @@
 # Welcome to my "My Projects" repository! 🎉
 
-This repository serves as a comprehensive portfolio showcasing my diverse projects across various data analysis tools and technologies. Each folder represents a specific tool, including **Excel, SQL, Python, Power BI, and Looker**, containing projects that highlight my skills in:
+This repository serves as a comprehensive portfolio showcasing my diverse projects across various data analysis tools and technologies. Each folder represents a specific tool, including **SQL, Python, Power BI, Excel and Looker**, containing projects that highlight my skills in:
 
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
