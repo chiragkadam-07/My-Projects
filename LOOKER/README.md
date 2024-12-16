@@ -1,4 +1,4 @@
-50-Mile Marathon Data Analysis and Visualization
+# 50-Mile Marathon Data Analysis and Visualization
 
 - This project analyzes race results from a 50-mile marathon event, sourced from UltraSignup.
 - The raw data was extracted and then transformed using Excel for cleaning and preparation.
