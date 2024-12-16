@@ -15,5 +15,4 @@ The GitHub sales analysis Excel dashboard is a customizable and dynamic tool des
  
  4.Amazon,Flipkart and Myntra are max contributing (80%)
 
-
  ![E-Commerce Report](https://github.com/chiragkadam-07/My-Projects/blob/main/EXCEL/E-Commerce%20Report.png)
