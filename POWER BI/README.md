@@ -8,3 +8,6 @@
 
 - Create a dashboard using the defined KPIs to reflect customer demographics and insights.
 - Write a concise email to the engagement partner explaining your findings and providing suggestions for necessary changes based on the dashboard you've created.
+
+
+**Insights & Recommendation Email is at the end of the PDF for both dashboards.**
