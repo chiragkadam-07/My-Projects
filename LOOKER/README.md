@@ -1,8 +1,22 @@
 # 50-Mile Marathon Data Analysis and Visualization
 
-- This project analyzes race results from a 50-mile marathon event, <a href="https://ultrasignup.com/results_event.aspx?did=102258">sourced from ultrasignup.com</a>.
-- The raw data was **extracted and transformed using Excel** for cleaning and preparation.
-- Afterward, the data was stored in **MySQL for analysis**.
-- Key insights were **visualized using Looker**, allowing for easy interpretation of participant performance metrics and race trends.
+## Objective:
+The goal of this project is to demonstrate a complete end-to-end workflow, starting with web scraping, followed by data analysis in MySQL, and culminating in data visualization using Looker Studio. This project emphasizes the practical application of data extraction and visualization techniques to derive insights from web-based information.
+
+## How I Did It:
+### 1. Web Scraping:
+- Used Selenium to scrape data from a dynamic webpage where traditional HTML parsing techniques would fail.
+- Identified the structure of the target table and extracted relevant information into a structured format and Saved the data locally.
+
+### 2. Data Analysis:
+- Imported the scraped data into a MySQL database for and performing analysis.
+- Utilized SQL queries to explore patterns within the dataset.
+
+### 3. Visualization:
+- Used Looker Studio to create compelling and interactive visualizations.
+- Designed dashboards to provide actionable insights derived from the dataset.
+
+## Outcome:
+This project effectively demonstrates my ability to manage and analyze data at all stages, from raw extraction to actionable insights.
 
 ![Race Dashboard](https://github.com/chiragkadam-07/My-Projects/blob/main/LOOKER/Race%20Analysis%20Dashboard.png)
