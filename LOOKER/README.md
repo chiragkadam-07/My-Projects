@@ -28,5 +28,6 @@ This project effectively demonstrates my ability to manage and analyze data at a
 **This is a snippet of the data for scraping.**
 ![image](table_Screenshot.png)
 
+
 **Looker Dashboard**
 ![Race Dashboard](https://github.com/chiragkadam-07/My-Projects/blob/main/LOOKER/Race%20Analysis%20Dashboard.png)
