@@ -15,7 +15,7 @@ The goal of this project is to demonstrate a complete end-to-end workflow, start
 - Identified the structure of the target table and extracted relevant information into a structured format and Saved the data locally.
 
 ### 2. Data Analysis:
-- Imported the scraped data into a MySQL database for and performing analysis.
+- Imported the scraped data into a MySQL database for performing analysis.
 - Utilized SQL queries to explore patterns within the dataset.
 
 ### 3. Visualization:
