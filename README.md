@@ -4,6 +4,7 @@ This repository serves as a comprehensive portfolio showcasing my diverse projec
 
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
+- Web Scraping
 - Data Visualization
 - Dashboard Creation
 - Statistical Analysis
