@@ -21,6 +21,7 @@ The goal of this project is to demonstrate a complete end-to-end workflow, start
 ### 3. Visualization:
 - Used Looker Studio to create compelling and interactive visualizations.
 - Designed dashboards to provide actionable insights derived from the dataset.
+- Looker Dashboard link - https://lookerstudio.google.com/s/g_TNxjjiuKk
 
 ## Outcome:
 This project effectively demonstrates my ability to manage and analyze data at all stages, from raw extraction to actionable insights.
